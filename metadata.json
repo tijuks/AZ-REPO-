@@ -1,0 +1,6 @@
+{
+  "name": "Azure Dev Center & CI/CD Setup Hub",
+  "description": "An interactive DevOps control center and pipeline simulator to configure Azure Dev Centers, Key Vaults, OIDC deployment identities, GitHub environments, and test end-to-end CI/CD automation pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
